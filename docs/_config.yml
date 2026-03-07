@@ -1,0 +1,26 @@
+name: 'Message Hub'
+title: null
+email: 'mail@msghub.ru'
+description: ''
+titles_from_headings:
+  enabled: false
+
+defaults:
+  - scope:
+      path: ''
+    values:
+      image: ''
+
+webmaster_verifications:
+  google: ''
+  yandex: ''
+
+author:
+  name: 'Kai Kimera'
+  url: 'https://kaikim.ru/'
+locale: 'ru_RU'
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jemoji
