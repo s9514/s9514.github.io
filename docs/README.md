@@ -1,3 +1,5 @@
+# Message Hub
+
 ## Configuration
 
 ### IMAP
