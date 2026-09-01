@@ -1,8 +1,6 @@
-# Message Hub
+# Configuration
 
-## Configuration
-
-### IMAP
+## IMAP
 
 - Server: `mail.msghub.ru`
 - Security: `SSL/TLS`
@@ -11,7 +9,7 @@
 - Username: `user@example.com`
 - Password: `pa$$word`
 
-### SMTP
+## SMTP
 
 - Server: `mail.msghub.ru`
 - Security: `SSL/TLS`
